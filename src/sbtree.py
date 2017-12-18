@@ -70,7 +70,7 @@ def steBro(a, b):
              arbol.insert(i, actual)
     return cadena               
 
-def reto02():
+def sbtree():
     """Abrimos, usamos el algoritmo en la entrada y escribimos la salida.."""
     archivo = open('../archivos/entradaR2.txt', 'r')
     salida = ''
@@ -81,4 +81,4 @@ def reto02():
     escritura(salida)
 
 #Ya no más corremos la wea.
-reto02()
+sbtree()
